@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dknapp2000/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dknapp2000/bamazon/issues"
+  },
+  "dependencies": {
+    "inquirer": "^3.0.5",
+    "mysql": "^2.13.0",
+    "sprintf": "^0.1.5"
+  }
+}
